@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello, my name is Gene 👋
 
-<!--
-**kevanaster/kevanaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
+- Currently a Network Automation Engineer @ Turn10 Studios Microsoft
+- Spent 2 years traveling in a self-built campervan [ <a href="https://www.instagram.com/travelswithkevan/">
+  <img align="left" alt="TravelswithKevan | Instragram" width="22px" src="https://raw.githubusercontent.com/kevanaster/kevanaster/master/assets/instagram_RGB.svg" /> @TravelswithKevan</a> ]
+- 5+ years automating using Ansible
+- 13+ years in IT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+---
+## GitHub activity 
+[![Gene's github stats](https://github-readme-stats.vercel.app/api?username=kevanaster)](https://github.com/kevanaster)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevanaster&layout=compact)](https://github.com/kevanaster)

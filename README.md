@@ -4,7 +4,7 @@ About me:
 
 - Currently a Network Automation Engineer @ Turn10 Studios Microsoft
 - Spent 2 years traveling in a self-built campervan [ <a href="https://www.instagram.com/travelswithkevan/">
-  <img align="left" alt="TravelswithKevan | Instragram" width="22px" src="https://raw.githubusercontent.com/kevanaster/kevanaster/master/assets/instagram_RGB.svg" /> @TravelswithKevan</a> ]
+  <img align="left" alt="TravelswithKevan | Instragram" width="22px" src="https://github.com/kevanaster/kevanaster/blob/main/assets/Instagram_RGB.svg" /> @TravelswithKevan</a> ]
 - 5+ years automating using Ansible
 - 13+ years in IT
 
